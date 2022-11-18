@@ -235,10 +235,6 @@ http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1154
 http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1157
 #EXTINF: -1 tvg-id="TDP.TV" tvg-name="Teledeporte" tvg-chno="30" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT", Teledeporte GEO
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF: -1 tvg-id="I35.90898.schedulesdirect.org" tvg-name="A3 Series" tvg-chno="29" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3s.png" group-title="TDT", A3 Series
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1157
-#EXTINF: -1 tvg-id="TDP.TV" tvg-name="Teledeporte" tvg-chno="30" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT", Teledeporte GEO
-https://ztnr.rtve.es/ztnr/1712295.m3u8
 #EXTINF: -1 tvg-id="DKiss.es" tvg-name="Dkiss" tvg-chno="31" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dkiss.png" group-title="TDT", Dkiss
 http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1158
 #EXTINF: -1 tvg-id="E3.TV" tvg-name="Esport 3" tvg-chno="34" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="TDT", Esport 3 GEO CAT
