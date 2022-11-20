@@ -470,37 +470,37 @@ acestream://f3f14b89eb62839f97153593432370b5bd61a5df
 
 
 
-#EXTINF:-1 tvg-id="CadenaElite.es" tvg-logo="https://i.imgur.com/3ydTBy7.png" group-title="Musica",Cadena Elite | ES
+#EXTINF:-1 tvg-id="CadenaElite.es" tvg-logo="https://i.imgur.com/3ydTBy7.png" group-title="Music",Cadena Elite | ES
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
-#EXTINF:-1 tvg-id="TV EXITOS" tvg-logo="https://image.roku.com/developer_channels/prod/071ae958bc1c7efb9e1c771865d5d4e3c1ed4ef170c77b81c8bde250ba37a4aa.png" group-title="Musica",TV EXITOS | ES
+#EXTINF:-1 tvg-id="TV EXITOS" tvg-logo="https://image.roku.com/developer_channels/prod/071ae958bc1c7efb9e1c771865d5d4e3c1ed4ef170c77b81c8bde250ba37a4aa.png" group-title="Music",TV EXITOS | ES
 https://vdo1.streamgato.us:3359/live/tvexitoslive
 
-#EXTINF:-1 tvg-id="1076" tvg-name="Fabulosa FM" tvg-logo="https://i2.paste.pics/10532b52fe8caff8b9ac5d56c616bddb.png" group-title="Musica", Fabulosa FM | ES
+#EXTINF:-1 tvg-id="1076" tvg-name="Fabulosa FM" tvg-logo="https://i2.paste.pics/10532b52fe8caff8b9ac5d56c616bddb.png" group-title="Music", Fabulosa FM | ES
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UC
 
-#EXTINF:-1 tvg-id="60a26a056d55b30007918d5a" tvg-name="MTV Music Made in Spain" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Música" tvg-chno="705", MTV Music Made in Spain
+#EXTINF:-1 tvg-id="60a26a056d55b30007918d5a" tvg-name="MTV Music Made in Spain" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Músic" tvg-chno="705", MTV Music Made in Spain
 https://stitcher.pluto.tv/stitch/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ed8efd3c-68b5-11ed-b85b-0242ac1100031
 
-#EXTINF:-1 tvg-id="6130d6f3f3f7bb0007dbd092" tvg-name="MTV En Vivo" tvg-logo="https://images.pluto.tv/channels/6130d6f3f3f7bb0007dbd092/colorLogoPNG.png" group-title="Música" tvg-chno="715", MTV En Vivo
+#EXTINF:-1 tvg-id="6130d6f3f3f7bb0007dbd092" tvg-name="MTV En Vivo" tvg-logo="https://images.pluto.tv/channels/6130d6f3f3f7bb0007dbd092/colorLogoPNG.png" group-title="Músic" tvg-chno="715", MTV En Vivo
 https://stitcher.pluto.tv/stitch/hls/channel/6130d6f3f3f7bb0007dbd092/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ed8efd3c-68b5-11ed-b85b-0242ac1100031
 
-#EXTINF:-1 tvg-id="60f16986acb81b0007c384ac" tvg-name="Qello Concerts" tvg-logo="https://images.pluto.tv/channels/60f16986acb81b0007c384ac/colorLogoPNG.png" group-title="Música" tvg-chno="720", Qello Concerts
+#EXTINF:-1 tvg-id="60f16986acb81b0007c384ac" tvg-name="Qello Concerts" tvg-logo="https://images.pluto.tv/channels/60f16986acb81b0007c384ac/colorLogoPNG.png" group-title="Músic" tvg-chno="720", Qello Concerts
 https://stitcher.pluto.tv/stitch/hls/channel/60f16986acb81b0007c384ac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ed8efd3c-68b5-11ed-b85b-0242ac1100031
 
-#EXTINF:-1 tvg-id="60db37b8b919720007c07fa4" tvg-name="Qwest Jazz&Beyond" tvg-logo="https://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png" group-title="Música" tvg-chno="725", Qwest Jazz&Beyond
+#EXTINF:-1 tvg-id="60db37b8b919720007c07fa4" tvg-name="Qwest Jazz&Beyond" tvg-logo="https://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png" group-title="Músic" tvg-chno="725", Qwest Jazz&Beyond
 https://stitcher.pluto.tv/stitch/hls/channel/60db37b8b919720007c07fa4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ed8efd3c-68b5-11ed-b85b-0242ac1100031
 
-#EXTINF:-1 tvg-id="600ad4ad6537680007be2ea6" tvg-name="Clubbing TV" tvg-logo="https://images.pluto.tv/channels/600ad4ad6537680007be2ea6/colorLogoPNG.png" group-title="Música" tvg-chno="730", Clubbing TV
+#EXTINF:-1 tvg-id="600ad4ad6537680007be2ea6" tvg-name="Clubbing TV" tvg-logo="https://images.pluto.tv/channels/600ad4ad6537680007be2ea6/colorLogoPNG.png" group-title="Músic" tvg-chno="730", Clubbing TV
 https://stitcher.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ed8efd3c-68b5-11ed-b85b-0242ac1100031
 
-#EXTINF:-1 tvg-id="60c8b3ddaaf9d4000780066f" tvg-name="Pluto TV K-Pop" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="Música" tvg-chno="735", Pluto TV K-Pop
+#EXTINF:-1 tvg-id="60c8b3ddaaf9d4000780066f" tvg-name="Pluto TV K-Pop" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png" group-title="Músic" tvg-chno="735", Pluto TV K-Pop
 https://stitcher.pluto.tv/stitch/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ed8efd3c-68b5-11ed-b85b-0242ac1100031
 
-#EXTINF:-1 tvg-id="61ea759737679900078ff559" tvg-name="MTV Party Music" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Música" tvg-chno="740", MTV Party Music
+#EXTINF:-1 tvg-id="61ea759737679900078ff559" tvg-name="MTV Party Music" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png" group-title="Músic" tvg-chno="740", MTV Party Music
 https://stitcher.pluto.tv/stitch/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ed8efd3c-68b5-11ed-b85b-0242ac1100031
 
-#EXTINF:-1 tvg-id="62444f34ea3ade0007ade6ac" tvg-name="MTV Urban Music" tvg-logo="https://images.pluto.tv/channels/62444f34ea3ade0007ade6ac/colorLogoPNG.png" group-title="Música" tvg-chno="745", MTV Urban Music
+#EXTINF:-1 tvg-id="62444f34ea3ade0007ade6ac" tvg-name="MTV Urban Music" tvg-logo="https://images.pluto.tv/channels/62444f34ea3ade0007ade6ac/colorLogoPNG.png" group-title="Músic" tvg-chno="745", MTV Urban Music
 https://stitcher.pluto.tv/stitch/hls/channel/62444f34ea3ade0007ade6ac/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ed8efd3c-68b5-11ed-b85b-0242ac1100031
 
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind Radio y TV" tvg-logo="https://i2.paste.pics/02c63dfaaf621ab897fbddd3e4666a33.png"group-title="Music", Rewind Radio y TV * | CL
