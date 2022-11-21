@@ -473,8 +473,8 @@ acestream://f3f14b89eb62839f97153593432370b5bd61a5df
 #EXTINF:-1 tvg-id="CadenaElite.es" tvg-logo="https://i.imgur.com/3ydTBy7.png" group-title="Music",Cadena Elite | ES
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
-#EXTINF:-1 tvg-id="TV EXITOS" tvg-logo="https://image.roku.com/developer_channels/prod/071ae958bc1c7efb9e1c771865d5d4e3c1ed4ef170c77b81c8bde250ba37a4aa.png" group-title="Music",TV EXITOS | ES
-https://vdo1.streamgato.us:3359/live/tvexitoslive
+#EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png", TV Exitos | DO
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1076" tvg-name="Fabulosa FM" tvg-logo="https://i2.paste.pics/10532b52fe8caff8b9ac5d56c616bddb.png" group-title="Music", Fabulosa FM | ES
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UC
