@@ -222,35 +222,50 @@ Acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 
 
 
-#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 1", FOOTTERS 1
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/151123
+#EXTINF:-1 tvg-id="instattv1" tvg-name="Instat TV 1" tvg-logo="http://185.37.231.157/picons/InStat1.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 1
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81700
 
-#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 2", FOOTTERS 2
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/151124
+#EXTINF:-1 tvg-id="instattv2" tvg-name="Instat TV 2" tvg-logo="http://185.37.231.157/picons/InStat2.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 2
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81701
 
-#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 3", FOOTTERS 3
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/151125
+#EXTINF:-1 tvg-id="instattv3" tvg-name="Instat TV 3" tvg-logo="http://185.37.231.157/picons/InStat3.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 3
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81702
 
-#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 4", FOOTTERS 4
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/151126
+#EXTINF:-1 tvg-id="instattv4" tvg-name="Instat tv 4" tvg-logo="http://185.37.231.157/picons/InStat4.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat tv 4
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81703
 
-#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 5", FOOTTERS 5
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/151127
+#EXTINF:-1 tvg-id="instattv5" tvg-name="Instat TV 5" tvg-logo="http://185.37.231.157/picons/InStat5.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 5
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81704
 
-#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 6", FOOTTERS 6
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/151128
+#EXTINF:-1 tvg-id="instattv6" tvg-name="Instat TV 6" tvg-logo="http://185.37.231.157/picons/InStat6.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 6
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81705
 
-#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 7", FOOTTERS 7
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/151129
+#EXTINF:-1 tvg-id="instattv7" tvg-name="Instat TV 7" tvg-logo="http://185.37.231.157/picons/InStat7.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 7
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81706
 
-#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 8", FOOTTERS 8
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/151130
+#EXTINF:-1 tvg-id="instattv8" tvg-name="Instat TV 8" tvg-logo="http://185.37.231.157/picons/InStat8.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 8
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81707
 
-#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 9", FOOTTERS 9
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/151131
+#EXTINF:-1 tvg-id="instattv9" tvg-name="Instat TV 9" tvg-logo="http://185.37.231.157/picons/InStat9.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 9
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81708
 
-#EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Footters" tvg-id="FOOTTERS 10", FOOTTERS 10
-http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/151132
+#EXTINF:-1 tvg-id="instattv10" tvg-name="Instat TV 10" tvg-logo="http://185.37.231.157/picons/InStat10.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 10
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81709
+
+#EXTINF:-1 tvg-id="instattv11" tvg-name="Instat TV 11" tvg-logo="http://185.37.231.157/picons/InStat11.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 11
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81710
+
+#EXTINF:-1 tvg-id="instattv12" tvg-name="Instat TV 12" tvg-logo="http://185.37.231.157/picons/InStat12.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 12
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81711
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat TV 13" tvg-logo="http://185.37.231.157/picons/InStat13.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 13
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81712
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat TV 14" tvg-logo="http://185.37.231.157/picons/InStat14.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 14
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81713
+
+#EXTINF:-1 tvg-id="" tvg-name="Instat TV 15" tvg-logo="http://185.37.231.157/picons/InStat15.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 15
+https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81714
 
 
 
