@@ -1,10 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
 
 
-
-XTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 001 Gol Mundial - 1080 Multiaudio
-acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 002 Gol Mundial - 1080 Opcion 1
 acestream://4e7b21206691ecdb489d4b1334944236f065e762
 
