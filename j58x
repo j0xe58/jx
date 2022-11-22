@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/SMARTIPTV/master/guide.xml"
 
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 003 Gol Mundial - 1080 Opcion 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 003 Gol Mundial - 1080 Opcion 1
 acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 004 Gol Mundial - 1080 Opcion 3
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 004 Gol Mundial - 1080 Opcion 2
 acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund.png" group-title="Mundial 2022" tvg-id="Gol Mundial", 004 Gol Mundial - 1080 Opcion 3
