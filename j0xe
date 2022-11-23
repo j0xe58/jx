@@ -33,6 +33,9 @@ acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
 
 
 
+#EXTINF: -1 tvg-id="La1.TV" tvg-name="La 1 UHD" tvg-chno="2" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Varios", La 1 UHD
+acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Varios" tvg-id="M+ #0 HD", [ ESP] #0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
