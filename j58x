@@ -31,7 +31,7 @@ acestream://2aab272d05089ce881538a1b3288d391de152d53
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golmund2.png" group-title="Mundial 2022" tvg-id="Gol Mundial 2", 011 Gol Mundial 2 - 720 Opcion 2
 acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
 
-
+VARIOS
 
 #EXTINF: -1 tvg-id="La1.TV" tvg-name="La 1 UHD" tvg-chno="2" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Varios", La 1 UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
@@ -63,7 +63,7 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Varios",El Garage TV (480p) [Not 24/7]
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
-
+LA LIGA
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 1080" , [ ESP] La Liga Tv Bar - 1080
 acestream://01b333b9369c662775902638ef8cffac346a0f61
@@ -104,6 +104,7 @@ acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasmm2.png" group-title="La Liga" tvg-id="Liga Smartbank M2 - 720", [ ESP] Liga Smartbank M2 - 720
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
+DAZN
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ ESP] DAZN LaLiga - 1080 (Opcion 1)
 acestream://df98650743f24a245c44cdf2851e57078f4c487a
@@ -146,7 +147,7 @@ acestream://5c2c4c9d12d5ae042d41f886edfd2bfd3cec18a2
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 720
 acestream://a4d17dec3b341fb4c10afab81068dca29c5e9a4a
 
-
+LIGA DE CAMPEONES
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones - 1080", [ ESP] Liga de Campeones - 1080a
 acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
@@ -196,7 +197,7 @@ acestream://57e284a3c13100baeff7a88dc50949585c9f1277
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc12.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 12 - 720", [ ESP] Liga de Campeones 12 - 720
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 
-
+M+ DEPORTES
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="M+ Deportes" tvg-id="M+DEPORTESHD", [ ESP] M+ Deportes - 1080
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
@@ -219,7 +220,7 @@ acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" group-title="M+ Deportes" tvg-id="M+ Deportes 6 - 1080", [ ESP] M+ Deportes 6 - 1080
 Acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 
-
+FOOTERS
 
 #EXTINF:-1 tvg-id="instattv1" tvg-name="Instat TV 1" tvg-logo="http://185.37.231.157/picons/InStat1.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 1
 https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81700
@@ -266,7 +267,7 @@ https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81713
 #EXTINF:-1 tvg-id="" tvg-name="Instat TV 15" tvg-logo="http://185.37.231.157/picons/InStat15.png" group-title="04 - IN STAT (FOOTERS) - LA LIGA REPLAY",Instat TV 15
 https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81714
 
-
+TDT
 
 #EXTINF: -1 tvg-id="La1.TV" tvg-name="La 1" tvg-chno="2" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT", La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -349,7 +350,7 @@ https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF: -1 tvg-id="ATVHD.TV" tvg-name="ATV Andorra" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="TDT", ATV Andorra
 https://videos.rtva.ad/live/rtva/playlist.m3u8
 
-
+MOVISTAR CON VPN
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="Movistar con VPN" tvg-id="La 1 HD", La 1 HD
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -441,7 +442,7 @@ http://31.14.41.118:8080/blacktop/k7S96HKftq/36547
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="Movistar con VPN" tvg-id="Axn White", Axn White
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36548
 
-
+INTERNACIONAL
 
 #EXTINF: -1 tvg-id="I251.19158.schedulesdirect.org" tvg-name="ESPN Argentina" tvg-logo="https://i.ibb.co/48fKHMB/ESPN.jpg" group-title="Internacional", ESPN Argentina
 acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
@@ -464,7 +465,7 @@ acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DirecTv Ecuador" tvg-logo="https://m3u-editor.com/storage/channel-logos/e1698030-595e-11ed-af59-c1dc2195a409/3812248/673300735.png" group-title="Internacional", DirecTv Ecuador
 acestream://f3f14b89eb62839f97153593432370b5bd61a5df
 
-
+MUSICA
 
 #EXTINF:-1 tvg-id="CadenaElite.es" tvg-logo="https://i.imgur.com/3ydTBy7.png" group-title="Music",Cadena Elite | ES
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
