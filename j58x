@@ -66,7 +66,16 @@ acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Varios",El Garage TV (480p) [Not 24/7]
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
                   
-   LA LIGA                   LA LIGA              LA LIGA            LA LIGA            LA LIGA                LA LIGA             LA LIGA
+#EXTINF:-1 tvg-id="CadenaElite.es" tvg-logo="https://i.imgur.com/3ydTBy7.png" group-title="Varios",Cadena Elite | ES
+https://www.youtube.com/watch?v=4xXDV4jDSxE
+
+#EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png" group-title="Varios" ,TV Exitos | DO
+https://www.youtube.com/watch?v=s-p65aofDRs
+
+#EXTINF:-1 tvg-id="1076" tvg-name="Fabulosa FM" tvg-logo="https://i2.paste.pics/10532b52fe8caff8b9ac5d56c616bddb.png" group-title="Varios", Fabulosa FM | ES
+https://www.youtube.com/watch?v=doccNyb5Rnc
+
+    LA LIGA                   LA LIGA              LA LIGA            LA LIGA            LA LIGA                LA LIGA             LA LIGA
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligatvbar.png" group-title="La Liga" tvg-id="La Liga Tv Bar - 1080" , [ ESP] La Liga Tv Bar - 1080
 acestream://01b333b9369c662775902638ef8cffac346a0f61
