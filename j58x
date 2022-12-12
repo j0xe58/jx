@@ -447,6 +447,9 @@ http://31.14.41.118:8080/blacktop/k7S96HKftq/36548
 
    INTERNACIONAL               INTERNACIONAL             INTERNACIONAL              INTERNACIONAL               INTERNACIONAL        INTERNACIONAL
 
+#EXTINF: -1 tvg-id="I251.19158.schedulesdirect.org" tvg-name="TUDN 720" tvg-logo="https://i.ibb.co/48fKHMB/ESPN.jpg" group-title="Internacional", TUDN 720
+acestream://958a228fbcdac80a19cd3d88ef402c0e50ccca87
+
 #EXTINF: -1 tvg-id="I251.19158.schedulesdirect.org" tvg-name="ESPN Argentina" tvg-logo="https://i.ibb.co/48fKHMB/ESPN.jpg" group-title="Internacional", ESPN Argentina
 acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 
