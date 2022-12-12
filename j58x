@@ -445,32 +445,6 @@ http://31.14.41.118:8080/blacktop/k7S96HKftq/36547
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="Movistar con VPN" tvg-id="Axn White", Axn White
 http://31.14.41.118:8080/blacktop/k7S96HKftq/36548
 
-   INTERNACIONAL               INTERNACIONAL             INTERNACIONAL              INTERNACIONAL               INTERNACIONAL        INTERNACIONAL
-
-#EXTINF: -1 tvg-id="I251.19158.schedulesdirect.org" tvg-name="TUDN 720" tvg-logo="https://i.ibb.co/48fKHMB/ESPN.jpg" group-title="Internacional", TUDN 720
-acestream://958a228fbcdac80a19cd3d88ef402c0e50ccca87
-
-#EXTINF: -1 tvg-id="I251.19158.schedulesdirect.org" tvg-name="ESPN Argentina" tvg-logo="https://i.ibb.co/48fKHMB/ESPN.jpg" group-title="Internacional", ESPN Argentina
-acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
-
-#EXTINF: -1 tvg-id="I511.105006.schedulesdirect.org" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://e7.pngegg.com/pngimages/293/436/png-clipart-fox-sports-networks-fox-sports-2-fox-entertainment-group-television-others-television-emblem.png" group-title="Internacional", Fox Sports 3 Argentina
-acestream://9a8c5485a38e9399e81b3eed23e588946946039f
-
-#EXTINF: -1 tvg-id="I206.10179.zap2it.com" tvg-name="ESPN Uruguay" tvg-logo="https://i.ibb.co/48fKHMB/ESPN.jpg" group-title="Internacional", ESPN Uruguay
-acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-
-#EXTINF: -1 tvg-id="I209.12444.zap2it.com" tvg-name="ESPN 2 Uruguay" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="Internacional", ESPN 2 Uruguay
-acestream://e40b29774fdfd953751a71f5695f647726623b9d
-
-#EXTINF: -1 tvg-id="I209.12444.zap2it.com" tvg-name="ESPN 3 Uruguay" tvg-logo="https://w7.pngwing.com/pngs/20/364/png-transparent-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-sport-thumbnail.png" group-title="Internacional", ESPN 3 Uruguay
-acestream://b97f5975dbd067655432512d4693b417bc85a714
-
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ESPN Extra Uruguay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="Internacional", ESPN Extra Uruguay
-acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DirecTv Ecuador" tvg-logo="https://m3u-editor.com/storage/channel-logos/e1698030-595e-11ed-af59-c1dc2195a409/3812248/673300735.png" group-title="Internacional", DirecTv Ecuador
-acestream://f3f14b89eb62839f97153593432370b5bd61a5df
-
 MUSICA            MUSICA          MUSICA            MUSICA                MUSICA             MUSICA              MUSICA                MUSICA
 
 #EXTINF:-1 tvg-id="CadenaElite.es" tvg-logo="https://i.imgur.com/3ydTBy7.png" group-title="Music",Cadena Elite | ES
