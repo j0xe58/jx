@@ -222,7 +222,7 @@ Acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 
 FOOTERS             FOOTERS                FOOTERS                FOOTERS              FOOTERS              FOOTERS               FOOTERS
 
-#EXTINF:-1 tvg-id="instattv1" tvg-name="Instat TV 1" tvg-logo="http://185.37.231.157/picons/InStat1.png" group-title="04 - IN STAT (FOOTERS) con VPN - LA LIGA REPLAY",Instat TV 1
+#EXTINF:-1 tvg-id="instattv1" tvg-name="Instat TV 1" tvg-logo="http://185.37.231.157/picons/InStat1.png" group-title="04 - IN STAT (FOOTERS) con VPN  - LA LIGA REPLAY",Instat TV 1
 https://besttvpremium.site:2096/SLes5WFhy38G/WbcRzBwkxNbd/81700
 
 #EXTINF:-1 tvg-id="instattv2" tvg-name="Instat TV 2" tvg-logo="http://185.37.231.157/picons/InStat2.png" group-title="04 - IN STAT (FOOTERS) con VPN  - LA LIGA REPLAY",Instat TV 2
