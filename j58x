@@ -282,7 +282,7 @@ http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178215
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/2560px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Estrenos 2", Movistar Estrenos 2
 http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178081
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Movistar" tvg-id="Comedy Central", Comedy Central
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/pc.png" group-title="Movistar +", Comedy Central group-title="Movistar" tvg-id="Comedy Central", Comedy Central
 http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178132
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/x-2qaH-7TBsyAIvenEGj4Y3KTO_jMWEp1sma9w7UFSaEapUhIb6V8VN-rESN6eMLut3qrlI2YA=s900-c-k-c0x00ffffff-no-rj" group-title="Movistar" tvg-id="#0", #0
@@ -309,7 +309,7 @@ http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178116
 #EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg" group-title="Movistar" tvg-id="Calle 13", Calle 13
 http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178126
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Movistar" tvg-id="AMC", AMC
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/amcsp.png" group-title="Movistar +", AMC group-title="Movistar" tvg-id="AMC", AMC
 http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178144
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Movistar" tvg-id="M.Liga 4K", M.Liga 4K
