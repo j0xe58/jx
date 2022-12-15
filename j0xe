@@ -220,6 +220,107 @@ acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" group-title="M+ Deportes" tvg-id="M+ Deportes 6 - 1080", [ ESP] M+ Deportes 6 - 1080
 Acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 
+MOvistar           MOvistar            MOvistar           MOvistar          MOvistar            MOvistar            MOvistar             MOvistar
+
+#EXTINF:-1 tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="Movistar" tvg-id="Antena 3 HD", Antena 3 HD
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178039
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/5z1nOkrDX2JPsYHlBFv8Q.jpg" group-title="Movistar" tvg-id="Cuatro HD", Cuatro HD
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178042
+
+#EXTINF:-1 tvg-logo="https://graffica.info/wp-content/uploads/2016/04/lasexta_nuevologo_1-1200x927.jpg" group-title="Movistar" tvg-id="Sexta HD", Sexta HD
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178047
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Clásicos", Movistar Clásicos
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178093
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg/640px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Cine Ñ", Movistar Cine Ñ
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178086
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Movistar_Disney.svg/1200px-Movistar_Disney.svg.png" group-title="Movistar" tvg-id="Movistar Diseny+", Movistar Disney+
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178098
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/205px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Series 2", Movistar Series 2
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178098
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-zdnIW7tLWOKXewm-pFth5gt6XniJWEvGYhqMqzs4=s900-c-k-c0x00ffffff-no-rj" group-title="Movistar" tvg-id="Fox FHD", Fox FHD
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178108
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/1200px-DreamWorks_Channel_Logo.svg.png" group-title="Movistar" tvg-id="Dreamworks FHD", Dreamworks FHD
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178178
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/HWD_logo.svg/1200px-HWD_logo.svg.png" group-title="Movistar" tvg-id="HOLLYWOOD FHD", HOLLYWOOD FHD
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178135
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ZH-FZJf7AV0T7nAK_OBw4QNSF-1G8rg1kAXjnxbnuKYWrVvK6XHA4knhE3fb_1m8scy30E6PBw=s900-c-k-c0x00ffffff-no-rj" group-title="Movistar" tvg-id="Canal Cocina", Canal Cocina
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178056
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Movistar" tvg-id="National Georaphic Wild", National Georaphic Wild
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178185
+
+#EXTINF:-1 tvg-logo="https://www.iberaliago.com/static/images/logo/logo-vertical.png" group-title="Movistar" tvg-id="Iberalia TV", Iberalia Tv
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178218
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Estrenos", Movistar Estrenos
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178078
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Acción", Movistar Acción
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178075
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="Movistar" tvg-id="Movistar Comedia", Movistar Comedia
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178084
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1200px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Drama", Movistar Drama
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178089
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/640px-Series_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Series", Movistar Series
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178096
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="Movistar" tvg-id="Caza y Pesca", Caza y Pesca
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178215
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/2560px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="Movistar Estrenos 2", Movistar Estrenos 2
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178081
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Movistar" tvg-id="Comedy Central", Comedy Central
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178132
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/x-2qaH-7TBsyAIvenEGj4Y3KTO_jMWEp1sma9w7UFSaEapUhIb6V8VN-rESN6eMLut3qrlI2YA=s900-c-k-c0x00ffffff-no-rj" group-title="Movistar" tvg-id="#0", #0
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178072
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="Movistar" tvg-id="La 1 HD", La 1 HD
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg" group-title="Movistar" tvg-id="Telecinco HD", Telecinco HD
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178044
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="Movistar" tvg-id="Toros", Toros
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/151702
+
+#EXTINF:-1 tvg-logo="https://www.giztele.com/wp-content/uploads/2020/08/la-resistencia.jpg" group-title="Movistar" tvg-id="Movistar Resistencia", Movistar Resistencia
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178191
+
+#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/a/x/n/axn.jpg" group-title="Movistar" tvg-id="Axn HD", Axn HD
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178114
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="Movistar" tvg-id="Axn White", Axn White
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178116
+
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg" group-title="Movistar" tvg-id="Calle 13", Calle 13
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178126
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Movistar" tvg-id="AMC", AMC
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178144
+
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="Movistar" tvg-id="M.Liga 4K", M.Liga 4K
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/151647
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Movistar" tvg-id="M.Liga De Campeones 4K", M.Liga De Campeones 4K
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/151714
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="Movistar" tvg-id="DMAX HD", DMAX HD
+http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/178212
+
 FOOTERS             FOOTERS                FOOTERS                FOOTERS              FOOTERS              FOOTERS               FOOTERS
 
 #EXTINF:-1 tvg-id="instattv1" tvg-name="Instat TV 1" tvg-logo="http://185.37.231.157/picons/InStat1.png" group-title="04 - IN STAT (FOOTERS) con VPN  - LA LIGA REPLAY",Instat TV 1
