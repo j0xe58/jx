@@ -422,15 +422,6 @@ https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF: -1 tvg-name="Cartoon Network Latino" tvg-chno="46" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="TDT", Cartoon Network Latino
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
-#EXTINF: -1 tvg-id="La2.TV" tvg-name="La 2" tvg-chno="4" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="TDT", La 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-
-#EXTINF: -1 tvg-id="TDP.TV" tvg-name="Teledeporte" tvg-chno="30" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="TDT", Teledeporte GEO
-https://ztnr.rtve.es/ztnr/1712295.m3u8
-
-#EXTINF: -1 tvg-id="Clan.TV" tvg-name="Clan" tvg-chno="43" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="TDT", Clan GEO
-https://ztnr.rtve.es/ztnr/5466990.m3u8
-
 #EXTINF: -1 tvg-id="324.TV" tvg-name="324" tvg-chno="54" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="TDT", 324
 
 #EXTINF: -1 tvg-id="13.TV" tvg-name="TRECE" tvg-chno="18" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="TDT", TRECE
