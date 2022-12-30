@@ -107,13 +107,13 @@ acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
    DAZN             DAZN            DAZN           DAZN             DAZN             DAZN           DAZN              DAZN
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ ESP] DAZN LaLiga - 1080 (Opcion 1)
-acestream://df98650743f24a245c44cdf2851e57078f4c487a
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ ESP] DAZN LaLiga - 1080 (Opcion 2)
-acestream://fee5612d57824b6e8db780f210ec54093056dc3a
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll.png" group-title="Dazn" tvg-id="DAZN LaLigaHD", [ ESP] DAZN LaLiga - 720 
-acestream://c35d2207792128fc0ae49c40e885c463f664dbce
+acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" group-title="Dazn" tvg-id="DAZN La Liga 2 - 1080", [ ESP] DAZN LaLiga 2- 1080 (Opcion 1)
 acestream://1124d4366348b76a755710c8d0d5728e39d0095c
