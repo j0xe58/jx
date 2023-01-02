@@ -54,16 +54,16 @@ acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 #EXTINF:-1 group-title="Varios" tvg-id="Bein Sport Ñ", Bein Sport Ñ
 acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d
 
-#EXTINF:-1 group-title="Varios" tvg-id="ESPN COLOMBIA", ESPN COLOMBIA
+#EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/ESPNHD/EXPORTACION_WEB/SS/ESPNHDWHORIZONTAL.jpg" group-title="Varios" tvg-id="ESPN COLOMBIA", ESPN COLOMBIA
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 
-#EXTINF:-1 group-title="Varios" tvg-id="ESPN2 COLOMBIA", ESPN2 COLOMBIA
+#EXTINF:-1 tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/ESPN2/EXPORTACION_WEB/SS/ESPN2WHORIZONTAL.jpg" group-title="Varios" tvg-id="ESPN2 COLOMBIA", ESPN2 COLOMBIA
 acestream://e40b29774fdfd953751a71f5695f647726623b9d
 
-#EXTINF:-1 group-title="Varios" tvg-id="ESPN3 COLOMBIA", ESPN3 COLOMBIA
+#EXTINF:-1 tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/ESPN3/EXPORTACION_WEB/SS/ESPN3WHORIZONTAL.jpg" group-title="Varios" tvg-id="ESPN3 COLOMBIA", ESPN3 COLOMBIA
 acestream://b97f5975dbd067655432512d4693b417bc85a714
 
-#EXTINF:-1 group-title="Varios" tvg-id="ESPN EXTRA COLOMBIA", ESPN EXTRA COLOMBIA
+#EXTINF:-1 tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/ESPNMSHD/EXPORTACION_WEB/SS/ESPNMSHDWHORIZONTAL.jpg" group-title="Varios" tvg-id="ESPN EXTRA COLOMBIA", ESPN EXTRA COLOMBIA
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="Varios" tvg-id="Toros", [ ESP] Toros
