@@ -450,13 +450,13 @@ http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="60a26a056d55b30007918d5a" tvg-name="MTV Music Made in Spain" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" group-title="Music" tvg-chno="705", MTV Music Made in Spain
 https://stitcher.pluto.tv/stitch/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=ed8efd3c-68b5-11ed-b85b-0242ac1100031
 
-#EXTINF: -1 tvg-id="Activa TV España" tvg-name="Activa TV España" tvg-logo="https://scontent-bcn1-1.xx.fbcdn.net/v/t39.30808-1/291744467_450559123740484_3501977270764802872_n.png?stp=dst-png_p200x200&_nc_cat=103&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=cXjnABZyxdkAX_gKqyH&_nc_ht=scontent-bcn1-1.xx&edm=AKsJ254EAAAA&oh=00_AfCtiwyglQcl5QGJxCrQ0sJt3djcdZgbczqOfAg-p0xrjw&oe=63BBF51E" group-title="MUSICA", Activa TV España
+#EXTINF: -1 tvg-id="Activa TV España" tvg-name="Activa TV España" tvg-logo="https://scontent-bcn1-1.xx.fbcdn.net/v/t39.30808-1/291744467_450559123740484_3501977270764802872_n.png?stp=dst-png_p200x200&_nc_cat=103&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=cXjnABZyxdkAX_gKqyH&_nc_ht=scontent-bcn1-1.xx&edm=AKsJ254EAAAA&oh=00_AfCtiwyglQcl5QGJxCrQ0sJt3djcdZgbczqOfAg-p0xrjw&oe=63BBF51E" group-title="Music", Activa TV España
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 
-#EXTINF: -1 tvg-id="STZ Telebista España" tvg-name="STZ Telebista España" tvg-logo="https://graph.facebook.com/StzGrupo/picture?width=200&height=200" group-title="MUSICA", STZ Telebista España
+#EXTINF: -1 tvg-id="STZ Telebista España" tvg-name="STZ Telebista España" tvg-logo="https://graph.facebook.com/StzGrupo/picture?width=200&height=200" group-title="Music", STZ Telebista España
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 
-#EXTINF: -1 tvg-id="VIVA RTV España" tvg-name="VIVA RTV España" tvg-logo="https://graph.facebook.com/ProduccionesAudiovisuales.CV/picture?width=200&height=200" group-title="MUSICA", VIVA RTV España
+#EXTINF: -1 tvg-id="VIVA RTV España" tvg-name="VIVA RTV España" tvg-logo="https://graph.facebook.com/ProduccionesAudiovisuales.CV/picture?width=200&height=200" group-title="Music", VIVA RTV España
 https://app.viloud.tv/hls/channel/c0d91440f0b445407e7b7a4e414f64ca.m3u8
 
 #EXTINF:-1 tvg-id="6130d6f3f3f7bb0007dbd092" tvg-name="MTV En Vivo" tvg-logo="https://images.pluto.tv/channels/6130d6f3f3f7bb0007dbd092/colorLogoPNG.png" group-title="Music" tvg-chno="715", MTV En Vivo
