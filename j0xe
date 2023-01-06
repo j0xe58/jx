@@ -36,6 +36,9 @@ acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
 #EXTINF: -1 tvg-id="La1.TV" tvg-name="La 1 UHD" tvg-chno="2" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Varios", La 1 UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 
+#EXTINF: -1 tvg-id="LA 1 1080" tvg-name="LA 1 1080" tvg-chno="2" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Varios", LA 1 1080
+acestream://fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Varios" tvg-id="M+ #0 HD", [ ESP] #0
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
@@ -54,17 +57,26 @@ acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png" group-title="Varios" tvg-id="Bein Sport Ñ", Bein Sport Ñ
 acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/3/3a/BeIN_Sports_en_Espa%C3%B1ol.png" group-title="Varios" tvg-id="beIN SPORTS ñ 1080", beIN SPORTS ñ 1080
+acestream://c0f38f2a4b891db823edb45e64f1191655526e5e
+
 #EXTINF:-1 tvg-logo="https://clarovideocdn1.clarovideo.net/PELICULAS/ESPNHD/EXPORTACION_WEB/SS/ESPNHDWHORIZONTAL.jpg" group-title="Varios" tvg-id="ESPN COLOMBIA", ESPN COLOMBIA
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/ESPN2/EXPORTACION_WEB/SS/ESPN2WHORIZONTAL.jpg" group-title="Varios" tvg-id="ESPN2 COLOMBIA", ESPN2 COLOMBIA
 acestream://e40b29774fdfd953751a71f5695f647726623b9d
 
+#EXTINF:-1 tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/ESPN2/EXPORTACION_WEB/SS/ESPN2WHORIZONTAL.jpg" group-title="Varios" tvg-id="ESPN 2 720", ESPN 2 720
+acestream://664eb5fe460b96941aed633959a845b185cd8394
+
 #EXTINF:-1 tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/ESPN3/EXPORTACION_WEB/SS/ESPN3WHORIZONTAL.jpg" group-title="Varios" tvg-id="ESPN3 COLOMBIA", ESPN3 COLOMBIA
 acestream://b97f5975dbd067655432512d4693b417bc85a714
 
 #EXTINF:-1 tvg-logo="https://clarovideocdn5.clarovideo.net/PELICULAS/ESPNMSHD/EXPORTACION_WEB/SS/ESPNMSHDWHORIZONTAL.jpg" group-title="Varios" tvg-id="ESPN EXTRA COLOMBIA", ESPN EXTRA COLOMBIA
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+
+#EXTINF:-1 tvg-logo="https://clarovideocdn9.clarovideo.net/PELICULAS/ESPN2/EXPORTACION_WEB/SS/ESPN2WHORIZONTAL.jpg" group-title="Varios" tvg-id="TUDN 720", TUDN 720
+acestream://958a228fbcdac80a19cd3d88ef402c0e50ccca87
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/torostv.png" group-title="Varios" tvg-id="Toros", [ ESP] Toros
 http://gho78prekqd2liaybsmd5r.esp.noaccesss.me:25461/live/smMf1DutvN/6125758821/376.ts?h=d9db1e823f366e5d163824a7d1eb0201&i=79.116.70.99&s=1661361782
