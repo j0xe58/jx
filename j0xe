@@ -438,6 +438,9 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 #EXTINF: -1 tvg-id="Radiolé" tvg-name="Radiolé" tvg-chno="8" tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" group-title="TDT", Radiolé
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
 
+#EXTINF: -1 tvg-id="LOS40 Classic" tvg-name="LOS40 Classic" tvg-chno="8" tvg-logo="https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200" group-title="RADIO", LOS40 Classic 
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+
 #EXTINF: -1 tvg-id="LOS 40 PRINCIPALES" tvg-name="LOS 40 PRINCIPALES" tvg-chno="8" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="RADIO", LOS 40 PRINCIPALES
 https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
 
