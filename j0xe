@@ -436,7 +436,57 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF: -1 tvg-id="13.TV" tvg-name="TRECE" tvg-chno="18" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="TDT", TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 
-MUSICA            MUSICA          MUSICA            MUSICA                MUSICA             MUSICA              MUSICA                MUSICA
+                 RADIO               RADIO                     RADIO                   RADIO                   RADIO                     RADIO             
+
+#EXTINF: -1 tvg-id="Radiolé" tvg-name="Radiolé" tvg-chno="8" tvg-logo="https://graph.facebook.com/radiole/picture?width=200&height=200" group-title="TDT", Radiolé
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3
+
+#EXTINF: -1 tvg-id="LOS 40 PRINCIPALES" tvg-name="LOS 40 PRINCIPALES" tvg-chno="8" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="RADIO", LOS 40 PRINCIPALES
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+
+#EXTINF: -1 tvg-id="Cadena Dial" tvg-name="Cadena Dial" tvg-chno="8" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" group-title="RADIO", Cadena Dial 
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+
+#EXTINF: -1 tvg-id="Cadena 100" tvg-name="Cadena 100" tvg-chno="8" tvg-logo="https://graph.facebook.com/CADENA100/picture?width=200&height=200" group-title="RADIO", Cadena 100 
+https://cadena100-cope.flumotion.com/chunks.m3u8
+
+#EXTINF: -1 tvg-id="Europa FM" tvg-name="Europa FM" tvg-chno="8" tvg-logo="https://graph.facebook.com/tueuropafm/picture?width=200&height=200" group-title="RADIO", Europa FM 
+https://livefastly-webs.europafm.com/europafm/audio/master.m3u8
+
+#EXTINF: -1 tvg-id="Rock FM" tvg-name="Rock FM" tvg-chno="8" tvg-logo="https://graph.facebook.com/RockFM/picture?width=200&height=200" group-title="RADIO", Rock FM
+https://rockfm-cope.flumotion.com/playlist.m3u8
+
+#EXTINF: -1 tvg-id="Kiss FM" tvg-name="Kiss FM" tvg-chno="8" tvg-logo="https://graph.facebook.com/kissfm.es/picture?width=200&height=200" group-title="RADIO", Kiss FM
+https://kissfm.kissfmradio.cires21.com/kissfm.mp3
+
+#EXTINF: -1 tvg-id="Canal Fiesta Radio" tvg-name="Canal Fiesta Radio" tvg-chno="8" tvg-logo="https://graph.facebook.com/canallfiesta/picture?width=200&height=200" group-title="RADIO", Canal Fiesta Radio
+https://cdnlive.shooowit.net/rtvalive/smil:channel5.smil/master.m3u8
+
+#EXTINF: -1 tvg-id="Melodía FM" tvg-name="Melodía FM" tvg-chno="8" tvg-logo="https://graph.facebook.com/tumelodiafm/picture?width=200&height=200" group-title="RADIO", Melodía FM
+https://livefastly-webs.melodia-fm.com/melodiafm/audio/master.m3u8
+
+#EXTINF: -1 tvg-id="Loca FM" tvg-name="Loca FM" tvg-chno="8" tvg-logo="https://graph.facebook.com/LocaFmOficial/picture?width=200&height=200" group-title="RADIO", Loca FM
+http://s3.we4stream.com:8045/live
+
+#EXTINF: -1 tvg-id="Cadena SER" tvg-name="Cadena SER" tvg-chno="8" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="RADIO", Cadena SER
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+
+#EXTINF: -1 tvg-id="COPE" tvg-name="COPE" tvg-chno="8" tvg-logo="https://graph.facebook.com/COPE/picture?width=200&height=200" group-title="RADIO", COPE
+https://flucast-m04-06.flumotion.com/cope/net1.mp3
+
+#EXTINF: -1 tvg-id="Onda Cero" tvg-name="Onda Cero" tvg-chno="8" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="RADIO", Onda Cero
+https://livefastly-webs.ondacero.es/ondacero/audio/master.m3u8
+
+#EXTINF: -1 tvg-id="Radio Nacional" tvg-name="Radio Nacional" tvg-chno="8" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="RADIO", Radio Nacional  
+https://rtvelivestream.akamaized.net/segments/rne/rne_r1_main.m3u8
+
+#EXTINF: -1 tvg-id="Radio 5 RNE" tvg-name="Radio 5 RNE" tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1405097207339028480/H7nP_7Ti_200x200.jpg" group-title="RADIO", Radio 5 RNE
+https://rtvelivestream.akamaized.net/segments/rne/rne_r5_madrid_main.m3u8
+
+#EXTINF: -1 tvg-id="Radio Marca" tvg-name="Radio Marca" tvg-chno="8" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" group-title="RADIO", Radio Marca 
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3
+
+                MUSICA               MUSICA                 MUSICA                     MUSICA                    MUSICA                 MUSICA 
 
 #EXTINF:-1 tvg-id="CadenaElite.es" tvg-logo="https://i.imgur.com/3ydTBy7.png" group-title="Music",Cadena Elite | ES
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
