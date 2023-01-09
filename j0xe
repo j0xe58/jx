@@ -444,6 +444,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.
 #EXTINF: -1 tvg-id="LOS 40 PRINCIPALES" tvg-name="LOS 40 PRINCIPALES" tvg-chno="8" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="RADIO", LOS 40 PRINCIPALES
 https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
 
+#EXTINF: -1 tvg-id="Tormes Fm" tvg-name="Tormes Fm" tvg-chno="8" tvg-logo="https://cdn-profiles.tunein.com/s217712/images/logod.jpg?t=637244919390000000" group-title="RADIO", Tormes Fm
+http://str1.mediatelekom.net:8738/stream
+
+#EXTINF: -1 tvg-id="Cadena Nostalgia" tvg-name="Cadena Nostalgia" tvg-chno="8" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/VcfhsQLd34.jpg" group-title="RADIO", Cadena Nostalgia
+https://azura.abcorp.es/radio/8040/live
+
 #EXTINF: -1 tvg-id="Cadena Dial" tvg-name="Cadena Dial" tvg-chno="8" tvg-logo="https://graph.facebook.com/cadenadial/picture?width=200&height=200" group-title="RADIO", Cadena Dial 
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
 
